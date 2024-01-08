@@ -47,7 +47,7 @@ body {
 /* Offer part */
 
 .offer {
-    margin: 200px auto;
+    margin: 100px auto;
     text-align: center;
 }
 
@@ -151,6 +151,7 @@ body {
     text-align: center;
     height: 500px;
     margin: 200px 295px;
+    margin-bottom: -100px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     border-radius: 14px;
 }
@@ -198,7 +199,7 @@ body {
     align-items: center;
     gap: 60px;
     height: 700px;
-    margin: 300px 295px;
+    margin: 180px 295px;
 }
 
 .coming-soon .best-offer .title h3 {
@@ -304,6 +305,7 @@ body {
     position: relative;
 }
 .banner-img{
+    margin-top: -50px;
     height: 80vh;
     display: flex;
     justify-content: space-between;
@@ -341,7 +343,7 @@ body {
 /* Portfolio Part */
 
 .portfolio {
-    margin: 300px 295px;
+    margin: 240px 295px;
     text-align: left;
 }
 
@@ -392,7 +394,7 @@ body {
 
 .subscribe {
     height: 70vh;
-    margin: 300px 295px;
+    margin: 100px 295px;
     padding-top: 70px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
